@@ -21,6 +21,6 @@
 
 ## Contacts:
 
-[![telegram](https://github.com/vasi1enko/vasi1enko/blob/main/assets/t.png)](https://t.me/#)
+[![telegram](https://github.com/vasi1enko/vasi1enko/blob/main/res/t.png)](https://t.me/#)
 [![instagram](https://github.com/vasi1enko/vasi1enko/blob/main/assets/inst.png)](https://www.instagram.com/#)
 [![vk](https://github.com/vasi1enko/vasi1enko/blob/main/assets/vk.png)](https://vk.com/#)
